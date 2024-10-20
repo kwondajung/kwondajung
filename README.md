@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/kwondajung?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/kwondajung?pet-id=629593977747231686" width="1000" height="120"/>
 </a>
